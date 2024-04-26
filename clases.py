@@ -32,6 +32,7 @@ class Profesor:
 profesor= Profesor(nombre="Daniel",cargo="Titular",legajo="123")
 
 
+
 class Alumno:
     def __init__(self,nombre,año,carrera):
      self.__nombre__= nombre
